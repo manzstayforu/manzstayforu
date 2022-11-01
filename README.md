@@ -1,11 +1,11 @@
-# Hi there, I'm Manz - aka [ manzstayforu ](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Manz - aka [ manzstayforu ](https://www.youtube.com/channel/UCGYXaHuztELHN_EkYM2eeYg) 👋
 ## About me:
-- 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
+- 🔭 I’m currently working at [Infinity Cyber Team](https://web.facebook.com/INFINITYCYBERTEAMOFFICIAL/)
 - 🌱 I’m currently learning HTML, CSS, SQL, Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 👯 I’m looking to collaborate as Pentester and Security Researcher
+- 🤔 I’m looking for suggest for Information and Teknologi [ IT ]
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: manzn.localhost@gmail.com
 
 ## Education:
 
