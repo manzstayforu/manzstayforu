@@ -14,7 +14,6 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Visual Code Studio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="RedHat" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Red_Hat_logo.svg" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Infinity Cyber Team" width="50px" src="https://flyairpeace.com/image/slides/images.jpeg" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
@@ -27,9 +26,6 @@
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/manzstayforu#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/manzstayforu#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/manzstayforu#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/manzstayforu#gh-dark-mode-only)
